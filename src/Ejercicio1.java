@@ -12,6 +12,7 @@ public class Ejercicio1 {
 		//no hace falta poner int []numeros = {2,5,6,4,7,9,2,1,10,6};
 		//Ponemos int []numeros = new int [10];
 		//bueno bueno vamos a probar
+		//klk manito
 		int []numeros = new int [10];
 		int []numeros2 = new int [10];
 		int []numeros3 = new int [10];
