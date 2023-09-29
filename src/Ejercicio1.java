@@ -11,6 +11,7 @@ public class Ejercicio1 {
 		//Como vamos a cargar los numero por el teclado cargarArray(numeros); 
 		//no hace falta poner int []numeros = {2,5,6,4,7,9,2,1,10,6};
 		//Ponemos int []numeros = new int [10];
+		//bueno bueno vamos a probar
 		int []numeros = new int [10];
 		int []numeros2 = new int [10];
 		int []numeros3 = new int [10];
@@ -27,7 +28,7 @@ public class Ejercicio1 {
 			
 		}
 			
-	 }
+	}
 	static int[] sumarArrays(int[]numeros, int []numeros2) {
 		int[] suma= new int [10];
 		for (int i = 0; i <numeros.length; i++) {
